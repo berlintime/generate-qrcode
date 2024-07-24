@@ -1,6 +1,6 @@
-# qrcode
+# generate qrcode
 
-# pip install qrcode
+#pip install qrcode
 
 import qrcode
 
